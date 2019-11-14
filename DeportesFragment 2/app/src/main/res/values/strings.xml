@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DeportesFragment</string>
+    <string name="bt">Ver Famoso</string>
+
+    <string name="f1">Pau Gasol</string>
+    <string name="f2">Miguel Induráin</string>
+    <string name="f3">Javier Pérez Polo</string>
+
+    <string name="l1">Merdalla de Oro en las Olimpiadas de Japón 2006</string>
+    <string name="l2">Primer puesto Tour de Francia en 1995</string>
+    <string name="l3">Medalla de plata en el Campeonato del mundo de Taekwondo 2019</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
